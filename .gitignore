@@ -1,8 +1,8 @@
 .cproject
 .project
 .mxproject
-.vs
+.vs/
 .settings/
-.vscode
+.vscode/
 *.ioc
 build/
