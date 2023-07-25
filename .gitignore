@@ -1,0 +1,8 @@
+.cproject
+.project
+.mxproject
+.vs
+.settings
+.vscode
+*.ioc
+build/
