@@ -1,3 +1,0 @@
-/Users/marionajijala/Desktop/MCU_Projects/Weather-Station-STM32F0/build/debug/build/CMakeFiles/rebuild_cache.dir
-/Users/marionajijala/Desktop/MCU_Projects/Weather-Station-STM32F0/build/debug/build/CMakeFiles/edit_cache.dir
-/Users/marionajijala/Desktop/MCU_Projects/Weather-Station-STM32F0/build/debug/build/CMakeFiles/station.dir
