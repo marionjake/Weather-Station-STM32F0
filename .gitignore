@@ -2,7 +2,7 @@
 .project
 .mxproject
 .vs
-.settings
+.settings/
 .vscode
 *.ioc
 build/
